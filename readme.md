@@ -1,3 +1,13 @@
+| Task No. | Task Name | Approved |
+|-----------|------------|----------|
+| Task 1 | Python Fundamentals – Interactive Library Management System | ✅ Yes |
+| Task 2 | To Be Assigned | ❌ No |
+| Task 3 | To Be Assigned | ❌ No |
+| Task 4 | To Be Assigned | ❌ No |
+| Task 5 | To Be Assigned | ❌ No |
+
+
+
 # 📚 Interactive Library Management System
 
 ## 📌 Project Overview
