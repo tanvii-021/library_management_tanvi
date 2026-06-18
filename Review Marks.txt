@@ -1,0 +1,11 @@
+| Category                | Score |
+| ----------------------- | ----- |
+| Readability             | 9/10  |
+| Logic                   | 8/10  |
+| Error Handling          | 8/10  |
+| Code Reuse              | 6/10  |
+| Scalability             | 5/10  |
+| Beginner Learning Value | 10/10 |
+
+
+Good Work Tanvi 
